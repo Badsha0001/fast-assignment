@@ -4,7 +4,7 @@ margin: 0;
 padding: 0;
 }
 h1{
-    font-size: 60px;
+    font-size: 40px;
 }
 
 /* fast-section */
@@ -45,9 +45,35 @@ height: 100vh;
 /* second-section */
 
 .donate-area{
-text-align: center;
-
+text-align: center; 
 
 }
 
+.main-wraper div{
+    
+  
+ }
 
+
+#div1{
+    background-color: #ddd; margin: 15px; padding: 27px;
+    
+}
+#div2{
+    background-color: #ddd; margin: 15px; padding: 27px;
+}
+#div3{
+    background-color: #ddd; margin: 15px; padding: 27px;
+}
+#div4{
+    background-color: #ddd; margin: 15px; padding: 27px;
+}
+#div5{
+    background-color: #ddd; margin: 15px; padding: 27px;
+}
+
+.main-wraper{
+    display: flex;
+justify-content: center;
+    
+}
