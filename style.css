@@ -13,14 +13,14 @@ h1{
     margin: auto;
     width: 50%;
     text-align: center;
-    margin-top: 150px;
+    margin-top: 45px;
 }
 .donate-now-button{
 text-decoration: none;
 background-image: linear-gradient(orange,red);
 color: white;
 font-weight: bold;
-padding: 15px 35px;
+padding: 15px 25px;
 border-radius: 10px;
 margin-top: 32px;
 display: inline-block;
@@ -49,10 +49,12 @@ text-align: center;
 
 }
 
-.main-wraper div{
+.main-wraper div:hover{
+    color: red;
+    border: 3px solid red;
+    border-radius: 3px;
     
-  
- }
+}
 
 
 #div1{
@@ -77,3 +79,8 @@ text-align: center;
 justify-content: center;
     
 }
+
+.main-wraper{
+    
+} 
+
