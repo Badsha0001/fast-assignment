@@ -3,15 +3,14 @@
     margin: 0;
     padding: 0;}
 
-    h1{font-size: 40px;}
+    h1{font-size: 50px;}
 
     /* fast-section */
 
     .fast-section-div{
         margin: auto;
         width: 50%;
-        text-align: center;
-        margin-top: 45px;}
+        text-align: center;}
 
     .donate-now-button{
     text-decoration: none;
@@ -33,7 +32,7 @@
     padding: 50px;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;}
+    height: 625px;}
 
     .fast-heading{color: white;}
 
@@ -112,3 +111,35 @@
             padding: 2%;
             margin: 3%;}
             .donate-plan p{color: gray;}
+
+            /* four-section */
+
+      .four-section{
+width: 100%;
+display: flex;
+margin-bottom: 200px;
+}
+
+      .section-container-half img{
+        width: 100%;
+        margin-top: 50px;
+        margin-left: 20px;
+        
+
+      }
+      .section-container-half{
+width: 40%;
+margin-left: 5%;
+
+      }
+      .four-section a{
+text-decoration: none;
+background:orange;
+padding: 10px;
+border-radius: 5px;
+color: white;
+margin-top: 25px;
+display: inline-block;
+      }
+       
+
