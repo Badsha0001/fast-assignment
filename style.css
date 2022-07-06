@@ -136,10 +136,11 @@ margin-top: 40px;
 .donate-plan{
 width: 100%;
 display: flex;
+
 }
 .plan-fast-div{
 width: 25%;
-background-color: #ddd;
+background-color:aquamarine;
 padding: 2%;
 margin: 3%;
 
@@ -149,14 +150,17 @@ margin: 3%;
 
 .plan-second-div{
     width: 25%;
-    background-color: #ddd;
+    background-color:beige;
     padding: 2%;
     margin: 3%;
     }
 
     .plan-third-div{
         width: 25%;
-        background-color:#ddd;
+        background-color:honeydew;
         padding: 2%;
         margin: 3%;
+        }
+        .donate-plan p{color: gray;
+
         }
