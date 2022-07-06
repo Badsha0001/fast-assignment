@@ -59,7 +59,8 @@ text-align: center;
 
 #div1{
     background-color: #ddd; margin: 15px;
-    padding: 25px;
+    padding: 27px;
+   
     
 }
 #div2{
@@ -79,6 +80,7 @@ text-align: center;
     display: flex;
 justify-content: center;
     text-align: center;
+   
 }
 
 .main-wraper{
@@ -121,3 +123,40 @@ font-weight: bold;
 .buton-area{
  text-align: center;
 }
+.our-donate{
+width: 400px;
+text-align: center;
+margin: auto;
+margin-top: 40px;
+
+}
+.our-donate p{
+    color: rgb(105, 102, 102);
+}
+.donate-plan{
+width: 100%;
+display: flex;
+}
+.plan-fast-div{
+width: 25%;
+background-color: #ddd;
+padding: 2%;
+margin: 3%;
+
+}
+
+
+
+.plan-second-div{
+    width: 25%;
+    background-color: #ddd;
+    padding: 2%;
+    margin: 3%;
+    }
+
+    .plan-third-div{
+        width: 25%;
+        background-color:#ddd;
+        padding: 2%;
+        margin: 3%;
+        }
