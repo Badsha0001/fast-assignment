@@ -58,7 +58,8 @@ text-align: center;
 
 
 #div1{
-    background-color: #ddd; margin: 15px; padding: 27px;
+    background-color: #ddd; margin: 15px;
+    padding: 25px;
     
 }
 #div2{
@@ -77,10 +78,46 @@ text-align: center;
 .main-wraper{
     display: flex;
 justify-content: center;
-    
+    text-align: center;
 }
 
 .main-wraper{
     
 } 
 
+.other-donate{
+
+    
+}
+.amount-area{
+margin-bottom: 100px;
+
+}
+.input-area{
+    text-align: center;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+   
+}
+
+#donateNow-button{
+
+background-color: rgb(255, 94, 1);
+padding: 15px 19px;
+border: none;
+border-radius: 7px;
+
+
+
+font-weight: bold;
+
+}
+#donateNow-button a{
+    color: white;
+   text-align: center;
+}
+.buton-area{
+ text-align: center;
+}
