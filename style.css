@@ -1,200 +1,215 @@
-    body{
-        font-family: 'Roboto', sans-serif;   
-    margin: 0;
-    padding: 0;}
+        body{
+            font-family: 'Roboto', sans-serif;   
+        margin: 0;
+        padding: 0;}
 
-    h1{font-size: 50px;}
+        h1{font-size: 50px;}
 
-    /* fast-section */
+        /* fast-section */
 
-    .fast-section-div{
-        margin: auto;
-        width: 50%;
-        text-align: center;}
+        .fast-section-div{
+            margin: auto;
+            width: 50%;
+            text-align: center;}
 
-    .donate-now-button{
-    text-decoration: none;
-    background-image: linear-gradient(orange,red);
-    color: white;
-    font-weight: bold;
-    padding: 15px 25px;
-    border-radius: 10px;
-    margin-top: 32px;
-    display: inline-block;}
-
-    .pragrap{
-    display: block;
-    color: #ddd;
-    margin-top: -15px;}
-
-    .fast-section{
-    background-image: url("images/donation13.jpg");
-    padding: 50px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 625px;}
-
-    .fast-heading{color: white;}
-
-    /* second-section */
-
-    .donate-area{
-    text-align: center; }
-
-    .main-wraper div:hover{
-        color: red;
-        border: 2px solid red;
-        border-radius: 3px;}
-
-
-    #div1{background-color: #ddd; margin: 15px; padding: 27px;}
-    #div2{background-color: #ddd; margin: 15px; padding: 27px;}
-    #div3{background-color: #ddd; margin: 15px; padding: 27px;}
-    #div4{background-color: #ddd; margin: 15px; padding: 27px;}
-    #div5{background-color: #ddd; margin: 15px; padding: 27px;}
-
-    .main-wraper{
-        display: flex;
-    justify-content: center;
-        text-align: center;}
-
-    .amount-area{
-    margin-bottom: 100px;}
-
-    .input-area{
-        text-align: center;
-        border: none;
-        margin-top: 20px;
-        margin-bottom: 20px;}
-
-    #donateNow-button{
-    background-color: rgb(255, 94, 1);
-    padding: 15px 19px;
-    border: none;
-    border-radius: 7px;
-    font-weight: bold;
-margin-bottom: 50px;}
-
-    #donateNow-button a{
+        .donate-now-button{
+        text-decoration: none;
+        background-image: linear-gradient(orange,red);
         color: white;
-    text-align: center;}
-    
-    .buton-area{text-align: center;}
+        font-weight: bold;
+        padding: 15px 25px;
+        border-radius: 10px;
+        margin-top: 32px;
+        display: inline-block;}
 
-    .our-donate{
-    width: 400px;
-    text-align: center;
-    margin: auto;
-    margin-top: 40px;}
+        .pragrap{
+        display: block;
+        color: #ddd;
+        margin-top: -15px;}
 
-    .our-donate p{color: rgb(105, 102, 102);}
+        .fast-section{
+        background-image: url("images/donation13.jpg");
+        padding: 50px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 625px;}
 
-    .donate-plan{
-    width: 100%;
-    display: flex;}
+        .fast-heading{color: white;}
 
-    .plan-fast-div{
-    width: 25%;
-    background-color:aquamarine;
-    padding: 2%;
-    margin: 3%;}
+        /* second-section */
+
+        .donate-area{
+        text-align: center; }
+
+        .main-wraper div:hover{
+            color: red;
+            border: 2px solid red;
+            border-radius: 3px;}
 
 
+        #div1{background-color: #ddd; margin: 15px; padding: 27px;}
+        #div2{background-color: #ddd; margin: 15px; padding: 27px;}
+        #div3{background-color: #ddd; margin: 15px; padding: 27px;}
+        #div4{background-color: #ddd; margin: 15px; padding: 27px;}
+        #div5{background-color: #ddd; margin: 15px; padding: 27px;}
 
-    .plan-second-div{
+        .main-wraper{
+            display: flex;
+        justify-content: center;
+            text-align: center;}
+
+        .amount-area{
+        margin-bottom: 100px;}
+
+        .input-area{
+            text-align: center;
+            border: none;
+            margin-top: 20px;
+            margin-bottom: 20px;}
+
+        #donateNow-button{
+        background-color: rgb(255, 94, 1);
+        padding: 15px 19px;
+        border: none;
+        border-radius: 7px;
+        font-weight: bold;
+    margin-bottom: 50px;}
+
+        #donateNow-button a{
+            color: white;
+        text-align: center;}
+        
+        .buton-area{text-align: center;}
+
+        .our-donate{
+        width: 400px;
+        text-align: center;
+        margin: auto;
+        margin-top: 40px;}
+
+        .our-donate p{color: rgb(105, 102, 102);}
+
+        .donate-plan{
+        width: 100%;
+        display: flex;}
+
+        .plan-fast-div{
         width: 25%;
-        background-color:beige;
+        background-color:aquamarine;
         padding: 2%;
         margin: 3%;}
 
-        .plan-third-div{
+
+
+        .plan-second-div{
             width: 25%;
-            background-color:honeydew;
+            background-color:beige;
             padding: 2%;
             margin: 3%;}
-            .donate-plan p{color: gray;}
 
-            /* four-section */
+            .plan-third-div{
+                width: 25%;
+                background-color:honeydew;
+                padding: 2%;
+                margin: 3%;}
+                .donate-plan p{color: gray;}
 
-      .four-section{
-width: 100%;
-display: flex;
-margin-bottom: 100px;
+                /* four-section */
 
-}
+        .four-section{
+    width: 100%;
+    display: flex;
+    margin-bottom: 100px;
 
-      .section-container-half img{
-        width: 100%;
-        margin-top: 50px;
-        margin-left: 20px;
-        height: 350px;
-        width: 600px;
+    }
+
+        .section-container-half img{
+            width: 100%;
+            margin-top: 50px;
+            margin-left: 20px;
+            height: 350px;
+            width: 600px;
+            
+
+        }
+        .section-container-half{
+    width: 30%;
+    margin-left: 5%;
+
+        }
+        .four-section a{
+    text-decoration: none;
+    background:orange;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 25px;
+    display: inline-block;
+        }
+        .our-update{
+            
+            width: 400px;
+        text-align: center;
+        margin: auto;
         
 
-      }
-      .section-container-half{
-width: 30%;
-margin-left: 5%;
+        }
+        .our-update p{
+    color: rgb(145, 143, 143);
+        }
 
-      }
-      .four-section a{
-text-decoration: none;
-background:orange;
-padding: 10px;
-border-radius: 5px;
-color: white;
-margin-top: 25px;
-display: inline-block;
-      }
-       .our-update{
+    .input-box{
+        width: 500px;
+        background-color:aquamarine;
+        padding: 60px 110px;
+        text-align: center;
+        margin: auto;
+        margin-top: 40px;
+        margin-bottom: 150px;
         
-        width: 400px;
-    text-align: center;
-    margin: auto;
     
-
-       }
-       .our-update p{
-color: rgb(145, 143, 143);
-       }
-
-.input-box{
-    width: 500px;
-    background-color:aquamarine;
-    padding: 60px 110px;
-    text-align: center;
-    margin: auto;
-    margin-top: 40px;
-    margin-bottom: 150px;
-    
-  
-    
-}
-.input1{
-    
-   background-color: #fff;
-display: inline-block;
-position: relative;
-font-size: 24px;
-border: none;
-border-radius: 20px 0px 0px 20px;
-outline: none;
-background-color: #fff;
-padding: 12px 18px;
-
-
-
-}
-
-.input2{
+        
+    }
+    .input1{
+        
+    background-color: #fff;
     display: inline-block;
     position: relative;
     font-size: 24px;
     border: none;
+    border-radius: 20px 0px 0px 20px;
     outline: none;
-left: -5px;
-border-radius: 0px 20px 20px 0px;
-    background-color: red;
+    background-color: #fff;
     padding: 12px 18px;
-    
+
+
+
+    }
+
+    .input2{
+        display: inline-block;
+        position: relative;
+        font-size: 24px;
+        border: none;
+        outline: none;
+    left: -5px;
+    border-radius: 0px 20px 20px 0px;
+        background-color: red;
+        padding: 12px 18px;
+        
+        }
+    footer{
+    width: 100%;
+    background-color: black;
+    padding: 50px 0px;
+    text-align: center;
+
+    }
+    footer h1{
+        color: red;
+        font-size: 30px;
+    }
+    footer span{
+        color: #fff;
+        font-size: small;
     }
