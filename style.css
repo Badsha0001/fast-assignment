@@ -2,7 +2,7 @@
         font-family: 'Roboto', sans-serif;   
     margin: 0;
     padding: 0;}
-    
+
     h1{font-size: 40px;}
 
     /* fast-section */
@@ -58,10 +58,6 @@
         display: flex;
     justify-content: center;
         text-align: center;}
-
-    .main-wraper{} 
-
-    .other-donate{}
 
     .amount-area{
     margin-bottom: 100px;}
